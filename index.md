@@ -1,37 +1,319 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+    <title>Johnfrits Rejaba - Portfolio</title>
+    
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Responsive Resume Template">
+    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
+    <link rel="shortcut icon" href="favicon.ico"> 
+    
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+    
+    <!-- FontAwesome JS-->
+    <script defer src="https://use.fontawesome.com/releases/v5.1.1/js/all.js" integrity="sha384-BtvRZcyfv4r0x/phJt9Y9HhnN5ur1Z+kZbKVgzVBAlQZX4jvAuImlIz+bG7TS00a" crossorigin="anonymous"></script>
+       
+    <!-- Theme CSS -->  
+    <link id="theme-style" rel="stylesheet" href="assets/css/pillar-1.css">
+</head> 
 
-You can use the [editor on GitHub](https://github.com/johnfrits/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<body>	
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <article class="resume-wrapper text-center position-relative">
+	    <div class="resume-wrapper-inner mx-auto text-left bg-white shadow-lg">
+		    <header class="resume-header pt-4 pt-md-0">
+			    <div class="media flex-column flex-md-row">
+				    <img class="mr-3 img-fluid picture mx-auto" src="assets/images/profile.jpeg" alt="">
+				    <div class="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
+					    <div class="primary-info">
+						    <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">Johnfrits Rejaba</h1>
+						    <div class="title mb-3">Software Developer</div>
+						    <ul class="list-unstyled">
+							    <li class="mb-2"><a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>rejaba.jfrits@gmail.com</a></li>
+								<li><a href="#"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>+63-917-9542-586</a></li>
+						    </ul>
+					    </div><!--//primary-info-->
+					    <div class="secondary-info ml-md-auto mt-2">
+						    <ul class="resume-social list-unstyled">
+				                <li class="mb-3"><a href="#"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in fa-fw"></i></span>linkedin.com/in/jfritsrejaba/</a></li>
+								<li class="mb-3"><a href="#"><span class="fa-container text-center mr-2"><i class="fab fa-github-alt fa-fw"></i></span>github.com/johnfrits</a></li>
+								<li class="mb-3"><a href="#"><span class="fa-container text-center mr-2"><i class="fab fa-skype fa-fw"></i></span>live:rejaba.jfrits</a></li>
+				                <li><a href="#"><span class="fa-container text-center mr-2"><i class="fas fa-globe"></i></span>instagram.com/frrrtzzz/</a></li>
+						    </ul>
+					    </div><!--//secondary-info-->
+					    
+				    </div><!--//media-body-->
+			    </div><!--//media-->
+		    </header>
+		    <div class="resume-body p-5">
+			    <section class="resume-section summary-section mb-5">
+				    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Career Summary</h2>
+				    <div class="resume-section-content">
+					    <p class="mb-0">Strong in design and integration problem-solving skills. Expert in C#, .NET, and SQL with database analysis and design. Knowledgeable in developing business plans, requirements specifications, and user documentation. Strong written and verbal communications. A team player by nature and I value commitment and ownership for every work I do. Expert in devising innovative and tailored solutions to assist businesses achieve their goals in a variety of industries.</p>
+				    </div>
+			    </section><!--//summary-section-->
+			    <div class="row">
+				    <div class="col-lg-9">
+					    <section class="resume-section experience-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Work Experience</h2>
+						    <div class="resume-section-content">
+							    <div class="resume-timeline position-relative">
+								    <article class="resume-timeline-item position-relative pb-5">
+									    
+									    <div class="resume-timeline-item-header mb-2">
+										    <div class="d-flex flex-column flex-md-row">
+										        <h3 class="resume-position-title font-weight-bold mb-1">Senior Software Developer</h3>
+										        <div class="resume-company-name ml-auto">Lyanthe</div>
+										    </div><!--//row-->
+										    <div class="resume-position-time">October 2018 - Present</div>
+									    </div><!--//resume-timeline-item-header-->
+									    <div class="resume-timeline-item-desc">
+										    <p>Within 8 months of working, I was promoted to be a Senior Developer. I lead the team of backend developers and able to focus developing new API's. I handle the communication between 3rd party softwares and us. I work also to create solutions and able to give a planning for our new version of API. I am one of the trusted people who lead the new project (Banking System). </p>
+										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
+										    <ul class="list-inline">
+													<li class="list-inline-item"><span class="badge badge-primary badge-pill">C#</span></li>
+													<li class="list-inline-item"><span class="badge badge-primary badge-pill">NET Core</span></li>
+													<li class="list-inline-item"><span class="badge badge-primary badge-pill">.NET Web</span></li>
+													<li class="list-inline-item"><span class="badge badge-primary badge-pill">Identity Server</span></li>
+													<li class="list-inline-item"><span class="badge badge-primary badge-pill">SQL</span></li>
+													<li class="list-inline-item"><span class="badge badge-primary badge-pill">Restful API</span></li>
+													<li class="list-inline-item"><span class="badge badge-primary badge-pill">Postman</span></li>
+										    </ul>
+									    </div><!--//resume-timeline-item-desc-->
 
-### Markdown
+								    </article><!--//resume-timeline-item-->
+								    
+								    <article class="resume-timeline-item position-relative pb-5">
+									    
+									    <div class="resume-timeline-item-header mb-2">
+										    <div class="d-flex flex-column flex-md-row">
+										        <h3 class="resume-position-title font-weight-bold mb-1">Software Developer</h3>
+										        <div class="resume-company-name ml-auto">Lyanthe</div>
+										    </div><!--//row-->
+										    <div class="resume-position-time">November 2017 - October 2018</div>
+									    </div><!--//resume-timeline-item-header-->
+									    <div class="resume-timeline-item-desc">
+										    <p>I worked with different softwares the our company has to cater and help customer. Develop different jobs to sync in our data from each cluster of database. I communicate every project we make from any third party available. Working also with a team coming from Netherlands and Belgium. </p>
+										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
+										    <ul class="list-inline">
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">C#</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">AngularJS</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">.NET Web</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">.NET Console for Jobs</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">SQL</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">HTML/CSS</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">Restful API</span></li>
+										    </ul>
+									    </div><!--//resume-timeline-item-desc-->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+								    </article><!--//resume-timeline-item-->
+								    
+								    <article class="resume-timeline-item position-relative pb-5">
+									    
+									    <div class="resume-timeline-item-header mb-2">
+										    <div class="d-flex flex-column flex-md-row">
+										        <h3 class="resume-position-title font-weight-bold mb-1">Software Developer / Instructor</h3>
+										        <div class="resume-company-name ml-auto">LEAN PH</div>
+										    </div><!--//row-->
+										    <div class="resume-position-time">May - Octorber 2017</div>
+									    </div><!--//resume-timeline-item-header-->
+									    <div class="resume-timeline-item-desc">
+										    <p>Working in a startup company within short-period of time, I can say I learned so much. Grinding from long hours of work and giving patience to it. I modified existing software to detect and correct errors, improve performance, and upgrade interfaces. I also teach different person who admires and love to learn programming. </p>
+										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
+										    <ul class="list-inline">
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">C#</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">AngularJS</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">.NET Web</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">SQL</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Entity Framework</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">HTML/CSS</span></li>
+											</ul>
+											<h4 class="resume-timeline-item-desc-heading font-weight-bold">Course Teached</h4>
+										    <ul class="list-inline">
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">Intro to Web Development</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">Software Development</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">Database Management</span></li>
+										    </ul>
+									    </div><!--//resume-timeline-item-desc-->
 
-```markdown
-Syntax highlighted code block
+								    </article><!--//resume-timeline-item-->
+								    
+								    <article class="resume-timeline-item position-relative">
+									    
+									    <div class="resume-timeline-item-header mb-2">
+										    <div class="d-flex flex-column flex-md-row">
+										        <h3 class="resume-position-title font-weight-bold mb-1">IT Staff <small class="text-muted">(Intern)</small></h3>
+										        <div class="resume-company-name ml-auto">National Telecommunications Commission, Region XI</div>
+										    </div><!--//row-->
+										    <div class="resume-position-time">June - September 2016</div>
+									    </div><!--//resume-timeline-item-header-->
+									    <div class="resume-timeline-item-desc">
+										    <p>As requirements getting through college, I was able to work with one of the Government Agencies in the Philippines, they are  responsible for the supervision, adjudication and control over all telecommunications services throughout the country.</p>				
+									    </div><!--//resume-timeline-item-desc-->
 
-# Header 1
-## Header 2
-### Header 3
+								    </article><!--//resume-timeline-item-->
+								    
+							    </div><!--//resume-timeline-->
+				
+							    
+						    </div>
+					    </section><!--//experience-section-->
+				    </div>
+				    <div class="col-lg-3">
+					    <section class="resume-section skills-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Skills &amp; Tools</h2>
+						    <div class="resume-section-content">
+						        <div class="resume-skill-item">
+							        <h4 class="resume-skills-cat font-weight-bold">Frontend</h4>
+							        <ul class="list-unstyled mb-4">
+								        <li class="mb-2">
+								            <div class="resume-skill-name">AngularJS</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+										</li>	
+										<li class="mb-2">
+								            <div class="resume-skill-name">Angular 5</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+								        </li>				
+								        <li class="mb-2">
+								            <div class="resume-skill-name">JavaScript</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+								        </li>
+								        
+								        <li class="mb-2">
+								            <div class="resume-skill-name">Jquery</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+								        </li>
+								        <li class="mb-2">
+								            <div class="resume-skill-name">HTML/CSS</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 100%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+								        </li>
+							        </ul>
+						        </div><!--//resume-skill-item-->
+						        
+						        <div class="resume-skill-item">
+						            <h4 class="resume-skills-cat font-weight-bold">Backend</h4>
+							        <ul class="list-unstyled">
+								        <li class="mb-2">
+								            <div class="resume-skill-name">C#</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+								        </li>
+								        <li class="mb-2">
+								            <div class="resume-skill-name">.NET / .NET CORE</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+								        </li>
+								        <li class="mb-2">
+								            <div class="resume-skill-name">SQL</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 85%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+								        </li>
+								        <li class="mb-2">
+								            <div class="resume-skill-name">RESTFUL API</div>
+									        <div class="progress resume-progress">
+											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 85%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+								        </li>
+							        </ul>
+						        </div><!--//resume-skill-item-->
+						        
+						        <div class="resume-skill-item">
+						            <h4 class="resume-skills-cat font-weight-bold">Others</h4>
+						            <ul class="list-inline">
+							            <li class="list-inline-item"><span class="badge badge-light">Code Review</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Git</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Gitlab / Github</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Sourcetree</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Azure</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Postman</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Swagger</span></li>
+							            <li class="list-inline-item"><span class="badge badge-light">Identity Server</span></li>
+						            </ul>
+						        </div><!--//resume-skill-item-->
+						    </div><!--resume-section-content-->
+					    </section><!--//skills-section-->
+					    <section class="resume-section education-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Education</h2>
+						    <div class="resume-section-content">
+							    <ul class="list-unstyled">
+								    <li class="mb-2">
+								        <div class="resume-degree font-weight-bold">Bachelor of Science in Information Technology</div>
+								        <div class="resume-degree-org">Holy Cross of Davao College Inc.</div>
+								        <div class="resume-degree-time">2014 - 2017</div>
+								    </li>
+							    </ul>
+						    </div>
+					    </section><!--//education-section-->
+					    <section class="resume-section reference-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Awards / Activities</h2>
+						    <div class="resume-section-content">
+							    <ul class="list-unstyled resume-awards-list">
+								    <li class="mb-2 pl-4 position-relative">
+								        <i class="resume-award-icon fas fa-trophy position-absolute" data-fa-transform="shrink-2"></i>
+								        <div class="resume-award-name">Shortlisted</div>
+								        <div class="resume-award-desc">DTI Ideation Challenge and Pitching Competitions</div>
+								    </li>
+								    <li class="mb-0 pl-4 position-relative">
+								        <i class="resume-award-icon fas fa-trophy position-absolute" data-fa-transform="shrink-2"></i>
+								        <div class="resume-award-name">Speaker</div>
+								        <div class="resume-award-desc">Showcased the IoT Project for Farming.</div>
+								    </li>
+							    </ul>
+						    </div>
+					    </section><!--//interests-section-->
+					    <section class="resume-section language-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Language</h2>
+						    <div class="resume-section-content">
+							    <ul class="list-unstyled resume-lang-list">
+								    <li class="mb-2"><span class="resume-lang-name font-weight-bold">English</span> <small class="text-muted font-weight-normal">(Professional)</small></li>
+								    <li class="mb-2 align-middle"><span class="resume-lang-name font-weight-bold">Cebuano</span> <small class="text-muted font-weight-normal">(Native)</small></li>
+								    <li><span class="resume-lang-name font-weight-bold">Filipino</span> <small class="text-muted font-weight-normal">(Native)</small></li>
+							    </ul>
+						    </div>
+					    </section><!--//language-section-->
+					    <section class="resume-section interests-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Interests</h2>
+						    <div class="resume-section-content">
+							    <ul class="list-unstyled">
+								    <li class="mb-1">Swimming</li>
+								    <li class="mb-1">Basketball</li>
+								    <li class="mb-1">Reading</li>
+							    </ul>
+						    </div>
+					    </section><!--//interests-section-->
+					    
+				    </div>
+			    </div><!--//row-->
+		    </div><!--//resume-body-->
+		    
+		    
+	    </div>
+    </article>  
 
-- Bulleted
-- List
+    
+    <footer class="footer text-center pt-2 pb-5">
 
-1. Numbered
-2. List
+    </footer>
 
-**Bold** and _Italic_ and `Code` text
+    
 
-[Link](url) and ![Image](src)
-```
+</body>
+</html> 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johnfrits/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
